@@ -46,7 +46,7 @@ li{
     transition: all 0.2s ease-in-out;
 
 &:hover{
-    color:rgb(237, 238, 235);
+    color:black;
     transform: scale(1.1);
 }
 }
