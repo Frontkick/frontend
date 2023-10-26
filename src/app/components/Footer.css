@@ -36,8 +36,8 @@
 .button1 {
     display: none;
     margin-left: 150px;
-    background-color: white;
-    color: black;
+    background-color: black;
+    color: white;
     border-radius: 7px;
     width: 160px;
     height: 40px;
