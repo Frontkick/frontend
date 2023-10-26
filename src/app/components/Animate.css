@@ -1,0 +1,105 @@
+.text{
+    
+    margin-left: 100px;
+    margin-top: 100px;
+}
+.float{
+    display: flex;
+    justify-content: space-between;
+
+}
+.floating{
+    width: 200px;
+    margin-right: 580px;
+    margin-top: -145px;
+}
+.card{
+    border: 1px ;
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px 3px;
+    height: 6cm;
+    width: 8cm;
+    margin: 150px 1200px;
+    color: rgb(41, 104, 25);
+    background-color: white;
+    margin-right: -3000px;
+}
+
+.scroll{
+    display: flex;
+    justify-content: space-between;
+
+    
+}
+.rate_skills{
+    margin-left: 570px;
+    font-size: 20px;
+}
+.wonder{
+    margin-left: 350px;
+    font-size: 60px;
+    font-weight: 10000px;
+}
+.ques{
+    margin-top: 200px;
+}
+.num_image{
+    width: 40px;
+    margin-left: 150px;
+    margin-bottom: 20px;
+}
+.path{
+    color: white;
+    width: 200px;
+    height: 50px;
+    text-align: center;
+    border-radius: 20px;
+}
+.p1{
+
+    background-color: blueviolet;
+}
+.p2{
+
+    background-color: rgb(78, 164, 170);
+}
+.p3{
+
+    background-color: rgb(168, 146, 49);
+}
+.p4{
+
+    background-color: rgb(57, 158, 62);
+}
+.test_button{
+    width:120px;
+    height: 40px;
+    border: 1px solid black;
+    border-radius: 20px;
+    background-color: black;
+    color: white;
+    margin-left: 940px;
+}
+.test-text{
+    margin-left: 850px;
+    font-size: 25px;
+}
+.test-text2{
+    margin-left: 770px;
+    font-size: 40px;
+}
+
+.test-text3{
+    margin-left: 540px;
+    font-size: 30px;
+    color: gray;
+}
+.test-text4{
+    margin-left: 860px;
+    font-size: 30px;
+}
+.min{
+    font-size: 20px;
+    margin-left: 900px;
+    color:rgb(61, 57, 57);
+}

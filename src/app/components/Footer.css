@@ -1,0 +1,49 @@
+.scrollbar{
+    overflow: auto;
+    width: 300px;
+    height: 400px;
+}
+
+.img_logo{
+    border-radius: 10px;
+    width: 100px;
+    align-self: center;
+}
+.text_margin{
+    margin-left: 750px;
+}
+.text2{
+    margin-left: 25px;
+}
+.top{
+    margin-top: 80px;
+}
+
+.job_card{
+    border: none;
+    border-radius: 10px;
+    height: 6cm;
+    width: 14cm;
+}
+.job_card:hover{
+    background-color: burlywood;
+}
+
+.floating-image{
+    margin-left: 30cm;
+}
+
+.button1 {
+    display: none;
+    margin-left: 150px;
+    background-color: black;
+    color: white;
+    border-radius: 7px;
+    width: 160px;
+    height: 40px;
+  }
+
+  /* Show the button when the text is hovered */
+.job_card:hover  .button1 {
+    display: inline-block;
+}
