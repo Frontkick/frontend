@@ -608,7 +608,7 @@ export const Animate = () => {
           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;you which freinds said what about you)"</p>
           <br/><br/>
           <div ref={textRef7} className='flex flex-row'>
-          <p className='test-text4 text-violet-600'>with love&nbsp;&nbsp;</p><p style={{fontFamily:"cursive", fontSize:"30px"}}>Team Blockahead</p>
+          <p className='test-text4'>with love&nbsp;&nbsp;</p><p className='text-violet-600' style={{fontFamily:"cursive", fontSize:"30px"}}>Team Blockahead</p>
           </div>
           <br/>
           <button className='test_button'>Start a test</button>
